@@ -2,8 +2,8 @@
 //  AddToDoViewController.swift
 //  todo
 //
-//  Created by Dharmendra Verma on 05/03/17.
-//  Copyright © 2017 Dharmendra Verma. All rights reserved.
+//  Created by Dhirendra Verma on 05/03/17.
+//  Copyright © 2017 Dhirendra Verma. All rights reserved.
 //
 
 import UIKit
