@@ -76,9 +76,12 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qaa-vg-1IM">
-                                <rect key="frame" x="144" y="310" width="32" height="30"/>
-                                <state key="normal" title="ADD"/>
+                            <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qaa-vg-1IM">
+                                <rect key="frame" x="141" y="310" width="38" height="33"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                                <state key="normal" title="ADD">
+                                    <color key="titleColor" red="0.9480459175" green="0.30770614540000002" blue="0.95560358499999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
                                 <connections>
                                     <action selector="addItem:" destination="8al-i7-E3P" eventType="touchUpInside" id="Jy6-2R-QBz"/>
                                 </connections>
